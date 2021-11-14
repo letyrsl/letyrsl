@@ -1,4 +1,4 @@
-### Hi there 👋
+![Header do perfil - Letícia da Rosa](/header_github.png)
 
 <!--
 **letyrsl/letyrsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
