@@ -1,5 +1,3 @@
-![Header do perfil - Letícia da Rosa](/header_github.png)
-
 Sou uma técnica em informática com maior experiência em suporte e desenvolvimento web (e faço uns bicos com design de vez em quando). Tenho interesse também em práticas de SEO e acessibilidade com tecnologias assistivas!
 
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://cc.uffs.edu.br/pessoa/leticia.rosa/)](https://cc.uffs.edu.br/pessoa/leticia.rosa/) [![E-mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leticia.rosa@estudante.uffs.edu.br)](mailto:leticia.rosa@estudante.uffs.edu.br) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/letyrsl/)](https://www.instagram.com/letyrsl/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/let%C3%ADcia-da-rosa-6788a018a/)](https://www.linkedin.com/in/let%C3%ADcia-da-rosa-6788a018a/)
