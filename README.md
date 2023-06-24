@@ -39,9 +39,12 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=letyrsl&show_icons=true&locale=en" alt="letyrsl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=letyrsl&" alt="letyrsl" /></p>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=letyrsl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="letyrsl" /></p>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=letyrsl&theme=dracula" alt="letyrsl" />
+</div>
 
 ---
 
