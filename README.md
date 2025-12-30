@@ -5,12 +5,6 @@
   <i>Passionate about building scalable web applications and clean code.</i>
 </p>
 
-<p align="center">
-  <a href="#about">About Me</a> •
-  <a href="#stack">Tech Stack</a> •
-  <a href="#connect">Connect</a>
-</p>
-
 ---
 
 <h3 id="about">👩‍💻 About Me</h3>
